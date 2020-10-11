@@ -892,7 +892,7 @@ function test() {
  alert("decbyte="+decbyte);
  alert("decmsg="+decmsg);  
 }*/
-return (window.compressStr={
+return (window.compressStrPw={
   enc: strEnc,
   dec: strDec
 });
